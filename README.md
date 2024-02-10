@@ -7,7 +7,7 @@
 
 
 # Project Description
-This is the first demo of my SGAN(SUDO Generative Adeversial Network).
+This is the first demo of my SGAN(Semi Generative Adversarial Networks).
 It uses a discriminator that is implementaion of the original paper. The unique part of this project is the generator part. GAN models generate data from random noise.
 My model however, generates characters from image and then creates image representation of these characters and feed it as a fake input for discriminator.
 
